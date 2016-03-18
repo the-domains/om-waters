@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.247747
+  lightness: 0.708928
+  rhythmicContrast: 0.701576
+  saturation: 0.264639
+cta: {}
+layout_spectrum: 1
+name: Om Waters
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.898648
